@@ -3,25 +3,35 @@
 
 <channel>
   <item>
+	<title>Hello world</title>
+	<caption>Message le plus utiliser en programmation</caption>
   	<link>https://koenig-media.raywenderlich.com/uploads/2015/09/Simulator-Screen-Shot-Sep-12-2015-6.40.48-PM.png</link>
-	<description>img</description>
+	<type>img</type>
+	<duration>10000</duration>
+	
   </item>
   <item>
+	<title>Tom and Jerry</title>
+	<caption>Cartoon populaire dans les annees 40</caption>
   	<link>https://rawgit.com/uit2712/Mp3Container/master/tom_and_jerry_31.mp4</link>
-	<description>vid</description>
+	<type>vid</type>
+	<duration>10000</duration>
   </item>
   <item>
+	<title>Image random</title>
+	<caption>Image random sur internet</caption>
   	<link>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO351UQRY6o2dnLVez1iA2DE5lauogpzKpGxSWHk20dECVjioa</link>
-	<description>img</description>
+	<type>img</type>
+	<duration>10000</duration>
   </item>
   <item>
+	<title>Exemple</title>
+	<caption>Image random sur internet</caption>
   	<link>https://cdn.slidemodel.com/wp-content/uploads/FF0074-01-free-wearable-tech-powerpoint-slides-16x9-2.jpg</link>
-	<description>img</description>
+	<type>img</type>
+	<duration>10000</duration>
   </item>
-  <item>
-  	<link>https://www.dropbox.com/s/0x2ke57h7wv49ll/Sample_512x288.mp4</link>
-	<description>vid</description>
-  </item>
+
   	
 </channel>
 
