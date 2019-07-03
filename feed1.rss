@@ -12,7 +12,7 @@
   </item>
   <item>
 	<title>Tom and Jerry</title>
-	<caption>Cartoon populaire dans les années 40</caption>
+	<caption>Cartoon populaire des années 40</caption>
   	<link>https://rawgit.com/uit2712/Mp3Container/master/tom_and_jerry_31.mp4</link>
 	<type>vid</type>
 	<duration>178000</duration>
@@ -28,6 +28,13 @@
   	<link>https://cdn.slidemodel.com/wp-content/uploads/FF0074-01-free-wearable-tech-powerpoint-slides-16x9-2.jpg</link>
 	<type>img</type>
 	<duration>10000</duration>
+  </item>
+	<item>
+	<title>Tom and Jerry (video 2)</title>
+	<caption>Cartoon populaire des années 40</caption>
+  	<link>https://rawgit.com/uit2712/Mp3Container/master/tom_and_jerry_31.mp4</link>
+	<type>vid</type>
+	<duration>178000</duration>
   </item>
 
   	
